@@ -1,2 +1,2 @@
 # Student-Registration-System
-a simple system of SRS mimicry
+這是一個學習系統，內容有登入登出，使用到了SQL。
